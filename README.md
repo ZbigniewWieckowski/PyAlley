@@ -3,11 +3,11 @@ PyAlley - a secure framework for the *py Alley board game simulator and computer
 
 Interactive Test:
 
-cd Test_Interactive
+cd Test_Interactive  
 python SpyAlley.py
 
 Batch Test:
 
-cd Test_Batch
+cd Test_Batch  
 python SpyAlley.py
 
