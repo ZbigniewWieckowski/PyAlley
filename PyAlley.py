@@ -1,11 +1,3 @@
-SpyAlley.py
-Inbox
-
-
-Zbigniew Wieckowski <rhubarbarian.punslinger@gmail.com>
-Thu, Apr 24, 9:59 PM (2 days ago)
-to me
-
 import random
 
 class Strategy:
