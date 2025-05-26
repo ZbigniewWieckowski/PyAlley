@@ -760,7 +760,6 @@ class SpyAlleyGame:
     def getActivePlayers(self):
         return self.ActivePlayers
     def play(self):
-        # TBD - implement game play
         print('Starting game initialization ...')
         self.board = SpyAlleyBoard()
         # Initialize human players - ask them for names and secretly inform
