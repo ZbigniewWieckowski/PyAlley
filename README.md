@@ -1,7 +1,7 @@
 # PyAlley
 PyAlley - a secure framework for the *py Alley board game simulator and computer agent test bed with opportunities  for intelligent agent development and competition between agents.
 
-*** Note *** On Windows I was able to successfully run the following tests inside the VsCode's Terminal for Python enabled project.
+*** Note *** On Windows I was able to successfully run the following tests inside the VsCode's Terminal for a Python enabled project.
 
 Interactive Test (number of human players can be zero):
 
