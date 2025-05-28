@@ -25,8 +25,8 @@ class Player:
         self.nationality = nationality
     def getPlayerType(self):
         return self.playerType
-    def setPlayerType(self,type):
-        self.playerType = type
+    def setPlayerType(self,playerType):
+        self.playerType = playerType
     def __str__(self):
         return '{0} is a {1} {2}'.format(self.name, self.nationality, self.playerType)
     def move(self,board):
