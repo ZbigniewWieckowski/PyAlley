@@ -1,5 +1,5 @@
 # PyAlley
-PyAlley - a secure framework for the *py Alley board game simulator and computer agent test bed with opportunities  for intelligent agent development and competition between agents.
+PyAlley - a secure framework for the *py Alley board game simulator and computer agent test bed with opportunities  for intelligent agent development and competition between agents. Spy Alley game rules are available at https://officialgamerules.org/game-rules/spy-alley/ as well as a PDF file in this repo.
 
 *** Note *** On Windows I was able to successfully run the following tests inside the VsCode's Terminal for a Python enabled project.
 
