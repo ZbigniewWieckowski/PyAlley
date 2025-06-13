@@ -3,7 +3,7 @@ PyAlley - a framework for the *py Alley board game simulator and computer agent 
 
 *** Note *** On Windows I was able to successfully run the following tests inside the VsCode's Terminal for a Python enabled project.
 
-<b>Interactive Test (number of human players can be zero for just observing the beaviors):</b>
+<b>Interactive Test (number of human players can be zero for just observing the behaviors):</b>
 
 cd Test_Interactive  
 python SpyAlley.py
